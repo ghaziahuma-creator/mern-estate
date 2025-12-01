@@ -17,7 +17,7 @@ const userSchema = new mongoose.Schema({
   },
   avatar:{
     type: String,
-    default:"https://www.freepik.com/free-vector/blue-circle-with-white-user_145857007.htm#fromView=keyword&page=1&position=0&uuid=5dcf06a8-ad90-449e-a48a-880a84ae7b2e&query=Profile+logo"
+    default:"https://media.istockphoto.com/id/2171382633/vector/user-profile-icon-anonymous-person-symbol-blank-avatar-graphic-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZwOF6NfOR0zhYC44xOX06ryIPAUhDvAajrPsaZ6v1-w="
   },
 }, {timestamps: true});
 
